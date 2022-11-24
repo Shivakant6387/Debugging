@@ -8,4 +8,24 @@
 8)Resume program
 9)view break
 10)points
-
+11)Evaluate and log
+12)suspend
+13)setting breakpoint on methods
+1.method breakpoint
+2.Emulated
+3.method entry
+4.method exit
+14)setting breakpoint on fields
+1. Field access
+2.Field modification
+3. step over
+4.step into
+15) Exception breakpoint
+1.any exception
+2. breakpointexception
+3.add exception
+4.any exception
+5.resume
+16) memory view
+1. layout setting
+2.step over
